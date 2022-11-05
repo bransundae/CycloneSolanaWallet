@@ -1,4 +1,4 @@
-package com.cyclone.solana.cyclonesolanawallet.usecase
+package com.cyclone.solana.cyclonesolanawallet.usecase.wallet
 
 import com.cyclone.solana.core.datamodel.entity.Seed
 import com.cyclone.solana.core.extensions.binaryToHex
